@@ -1,0 +1,51 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+
+body{
+    background-image: url("https://img.freepik.com/free-vector/hand-drawn-abstract-doodle-background_23-2149331176.jpg?w=2000");
+    background-size: cover;
+
+}
+
+#h1{
+    color:black;
+    font-weight: bold; 
+}
+
+#logo_img{
+    border-radius: 5px;
+}
+
+body{
+    background-image: url("https://static.vecteezy.com/system/resources/previews/000/534/036/original/vector-abstract-blue-background-low-poly-textured-triangle-shapes-in-random-pattern-trendy-lowpoly-background.jpg");
+    
+    background-size: cover;
+}
+
+#h1{
+    color:black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
+
+
+ 
